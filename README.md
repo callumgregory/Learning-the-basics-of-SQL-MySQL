@@ -1,2 +1,2 @@
-# Learning-the-basics-of-SQL-MySQL
-Learning the basics of SQL syntax
+# Learning the basics of SQL/MySQL
+- I have learnt how to query a database in SQL
